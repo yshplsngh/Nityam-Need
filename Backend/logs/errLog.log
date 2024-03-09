@@ -1,0 +1,50 @@
+08112023	01:39:17	65cb5e2c-66a7-4a9e-8819-590f86dd3325	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:94	f28f8eac-eb5b-4433-b7a4-9b92c2d2be36	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:38	4526ce35-31be-4dd8-8ced-0234519fcf27	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:71	8c37a90a-c5a3-40c1-90a8-eea11b96c5e9	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:02	ce15ef8a-36c8-491d-a909-347f5fe0d71e	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:17	fac04ae3-9365-4a2d-b678-922609e1befa	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:37	40eeffe7-7903-403f-9be9-bd6889347e1b	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:56	394b17f8-1a2d-419d-943d-f0bfa5a58f1a	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:75	537ee301-0115-4b7b-8c6a-955ea7497b77	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:07	d7a10f84-f3b0-496c-8481-b84d3ce4db32	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:45	ee984a89-d7b8-4cc3-9c69-51de2d476af7	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:79	3d450718-312e-4a51-9eee-0881c258ecce	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:15	b6cf0908-a6c8-4c0b-afd6-bf754e49c92c	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:52	9982eb7f-8ebf-4fe2-a607-1e048db25b26	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:83	4d04e8fb-57d3-44af-86f1-0f65e62ec4df	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:39:29	edbdd829-559c-4c60-9e96-3637681d749c	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:41:39	3adf511d-5945-4b9e-9c2b-ebc135cf7b52	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:42:05	9d38f873-1a57-40eb-ba45-7047ccad9a8b	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:43:73	79d841a7-3003-4353-859e-7fb393dea76f	TypeError:allowedOrigins.indexOf is not a function	/auth	OPTIONS	http://localhost:3001
+08112023	01:44:29	97deec5d-e163-4754-ba34-f40d01891b0c	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3001
+08112023	01:44:33	1b56a6a8-6f5b-4a2c-8922-20322e6f72f1	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3001
+21112023	01:09:15	93538bdf-6322-42d4-ae8f-09dd99523343	ValidationError:User validation failed: panUrl: Path `panUrl` is required., aadharUrl: Path `aadharUrl` is required.	/auth/signup	POST	http://localhost:3000
+21112023	01:11:75	83d1e767-81d4-4336-adab-4bc35051f6c5	ValidationError:User validation failed: panUrl: Path `panUrl` is required., aadharUrl: Path `aadharUrl` is required.	/auth/signup	POST	http://localhost:3000
+21112023	01:13:17	6bfedddc-ce9d-46ea-8008-fd79d1eb6d0a	ValidationError:User validation failed: panUrl: Path `panUrl` is required., aadharUrl: Path `aadharUrl` is required.	/auth/signup	POST	http://localhost:3000
+27112023	02:47:47	1115db44-570d-4b2d-a1a6-acd070ec50c4	ValidationError:User validation failed: phoneNumber: Cast to Number failed for value "+91 84393 45464" (type string) at path "phoneNumber"	/auth/uploadDocumentUrl	POST	http://localhost:3000
+27112023	16:27:72	7f63eb39-5468-45a0-801a-a0e026412c32	TypeError:logEvents is not a function	/auth	OPTIONS	http://localhost:3000
+27112023	16:28:50	7d7a3bff-f9de-4492-9ad0-e74ecb756afd	ReferenceError:getCurrentContextData is not defined	/auth	POST	http://localhost:3000
+27112023	16:32:22	6177e2bd-f18a-4c60-85fa-6e3c0234f888	ReferenceError:getCurrentContextData is not defined	/auth	POST	http://localhost:3000
+27112023	16:33:21	8a541380-9a55-4e7d-b9d6-5a0f1d01a659	TypeError:Cannot read properties of undefined (reading 'browser')	/auth	POST	http://localhost:3000
+27112023	16:34:07	7a37e8a4-0c35-46d9-95dc-972364325f38	ReferenceError:nextDay is not defined	/auth	POST	http://localhost:3000
+27112023	16:34:28	4dea7a89-617c-48e8-99e3-c91323d0187f	ReferenceError:next is not defined	/auth	POST	http://localhost:3000
+27112023	16:35:61	55765f25-a193-4d90-9904-3235d1893fe8	TypeError:next is not a function	/auth	POST	http://localhost:3000
+27112023	16:50:63	332a9b96-866a-4129-a96e-db901a3e19af	TypeError:Cannot read properties of undefined (reading 'browser')	/auth	POST	http://localhost:3000
+27112023	16:52:26	9cd9d49f-8168-434b-8ffd-708750e324ac	TypeError:Cannot read properties of undefined (reading 'browser')	/auth	POST	http://localhost:3000
+27112023	16:55:50	dc780d7f-1a1c-402b-ad7e-c2caaa4c4d06	TypeError:Cannot read properties of undefined (reading 'platform')	/auth	POST	http://localhost:3000
+27112023	17:01:78	63f13d95-ccb8-4bfe-ba6c-3a77f0a4496c	ReferenceError:kHeaders is not defined	/auth	POST	http://localhost:3000
+28112023	12:40:28	ad7254d9-4f81-4ad5-bf4f-dee6b3534504	TypeError:tokenLogger is not a function	/auth/generateSignature	POST	http://localhost:3000
+28112023	12:40:31	de57b653-fc1d-40ad-be67-923ef2b7533d	TypeError:tokenLogger is not a function	/auth/generateSignature	POST	http://localhost:3000
+28112023	22:53:13	88a804fa-dd07-45e7-9f57-a34e385479cd	TypeError:tokenLogger is not a function	/auth/generateSignature	POST	http://localhost:3000
+28112023	22:53:15	f8c89de6-1980-4d35-9040-7bc767f2e846	TypeError:tokenLogger is not a function	/auth/generateSignature	POST	http://localhost:3000
+29112023	14:57:25	297d3e6f-5f17-409b-9685-e11635c50018	MongoServerSelectionError:connect ETIMEDOUT 3.93.161.40:27017	/auth/login	POST	http://localhost:3000
+29112023	14:57:59	cc237737-a68b-420f-9044-1d8680ca6a0e	MongoServerSelectionError:connect ETIMEDOUT 3.93.161.40:27017	/auth/login	POST	http://localhost:3000
+29112023	15:04:11	4aeace1d-05cd-4109-952f-2cc404306fb0	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/login	http://localhost:3000
+29112023	15:04:18	969b5e9d-0b4d-4044-9351-7ac0e25b93c4	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/login	http://localhost:3000
+29112023	21:40:97	82158769-d222-4ceb-8bfa-f6eb5552b60c	TypeError:Cannot read properties of undefined (reading 'browser')	/auth/signup	POST	http://localhost:3000
+29112023	21:48:01	e7ded777-b2da-4dcb-bbe4-8097de184afd	TypeError:Cannot read properties of undefined (reading 'browser')	/auth/signup	POST	http://localhost:3000
+29112023	21:49:33	0cc7a20e-a819-4f66-bd92-26968d27e096	TypeError:Cannot read properties of undefined (reading 'browser')	/auth/signup	POST	http://localhost:3000
+29112023	21:50:83	cb4df2ef-1955-4af5-854e-ccdb11bf06c2	TypeError:Cannot read properties of undefined (reading 'browser')	/auth/signup	POST	http://localhost:3000
+29112023	21:51:94	9b084b98-64a0-4b4a-8538-13642409edd0	TypeError:Cannot read properties of undefined (reading 'platform')	/auth/signup	POST	http://localhost:3000
+01122023	00:04:68	f2a3f6cb-cca6-47ab-af77-a4f2c7371a3c	TypeError:res.status is not a function	/auth/verifyDocument	POST	http://localhost:3000

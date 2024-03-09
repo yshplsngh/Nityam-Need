@@ -1,0 +1,13 @@
+28112023	10:23:40	30527932-b2da-49b0-95e2-1c9cba2cb173	undefined:ESERVFAIL	queryTxt	medcluster.ljy6lwq.mongodb.net
+28112023	10:25:28	04580611-94b3-4adc-948c-edd225f4af32	ReplicaSetNoPrimary		ip blacklist error!
+29112023	10:51:82	358361bb-f9a3-4b1d-8c41-8ca493c9f216	undefined:ESERVFAIL	queryTxt	medcluster.ljy6lwq.mongodb.net
+29112023	21:21:01	82a75202-cd4a-4b7b-8430-e3e09908f6b0	ReplicaSetNoPrimary		ip blacklist error!
+29112023	21:22:64	ce897cff-b6e0-4b46-963a-5e3b1c515f02	ReplicaSetNoPrimary		ip blacklist error!
+29112023	21:23:25	2eac7409-bf5d-48fc-b21d-cae07e9d8f8f	ReplicaSetNoPrimary		ip blacklist error!
+29112023	21:24:69	0a8c24ad-e661-4cf0-9f79-440e37274931	undefined:ECONNREFUSED	querySrv	_mongodb._tcp.medcluster.ljy6lwq.mongodb.net
+29112023	21:26:55	f51b6801-86e9-41e0-af40-bf5858904c6e	ReplicaSetNoPrimary		ip blacklist error!
+29112023	21:53:55	8b88ea95-2d07-4347-a5ae-8e1d2a40077d	ReplicaSetNoPrimary		ip blacklist error!
+30112023	12:15:94	87e00d4b-9e5d-432b-b70b-1269e54462b4	ReplicaSetNoPrimary		ip blacklist error!
+06122023	08:29:55	f5b61856-c62d-44f0-9f87-3a36661c328a	ReplicaSetNoPrimary		ip blacklist error!
+06122023	08:30:77	ec9b7acc-4b05-440c-8f6d-b4b58d04fdca	ReplicaSetNoPrimary		ip blacklist error!
+06122023	08:49:18	b16eae62-bf74-4756-a623-e016d45ca912	ReplicaSetNoPrimary		ip blacklist error!
